@@ -1,0 +1,55 @@
+.profilepic{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-left: -700px;
+}
+
+.profilecolumn{
+    text-align: center;
+}
+
+.profilecolumn2{
+    text-align: right;
+}
+
+.mycol2 {
+    text-align: center;
+    margin-top: -150px;
+
+}
+
+.th, td {
+    padding: 10px;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    /* margin-bottom: 20px; */
+    
+    /* margin-top: -350px; */
+    color: white;
+    /* padding: 10px; */
+    /* float: right; */
+    /* width: 100%; */
+    /* text-align: center; */
+    /* text-decoration: none;
+    display: inline-block; */
+    font-size: 20px;
+}
+
+/* .editprofilecolumn{
+    text-align: center;
+    float: center;
+} */
+
+.button2 {
+    background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}

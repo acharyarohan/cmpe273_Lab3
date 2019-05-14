@@ -1,0 +1,34 @@
+.menu{
+    border-right: 2px solid rgb(235, 235, 235);
+    height: 80vh;
+    padding: 20px;
+}
+
+.menuul{
+    padding-left: 0;
+    margin-bottom: 100px;
+}
+
+.menu li{
+    font-family: 'Ubuntu', sans-serif;
+    list-style-type: none;
+    color: rgb(0, 0, 0); 
+}
+
+.btn-light{
+    width: 20%;
+    text-align: left;
+    margin-top: 2px;
+    margin-bottom: 5px;
+    padding-left: 20px;
+    font-size: 1.2em;
+    background-color: #4CAF50; /* Green */
+    /* margin-bottom: 20px; */
+    margin-right: 20px;
+    color: white;
+    padding: 10px;
+    /* text-align: center; */
+    /* text-decoration: none;
+    display: inline-block; */
+    font-size: 15px;
+}

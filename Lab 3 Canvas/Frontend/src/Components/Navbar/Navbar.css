@@ -1,0 +1,63 @@
+.navbar{
+  padding: 0;
+  float: left;
+  width: fit-content;
+  /* margin-right: 20%; */
+  display: inline-block;
+}
+
+#navigation-bar{
+  color:white;
+  background-color: rgb(75, 70, 146);
+  display: flex;
+  width: 100%;
+  height: 100vh; 
+  border-right: 2px solid rgb(255, 255, 255);
+}
+
+#navigation-bar img{
+  background-color: white;
+  width: 100px;
+  height: 70px;
+}
+
+.navul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.navbarlogo{
+  padding: 17px 15px 15px 15px;
+}
+
+li a{
+  color: white;
+  text-decoration: none;
+}
+
+.logoutbutton{
+  position: relative;
+  
+}
+
+i{
+  text-decoration: none;
+  color: white;
+}
+
+.navbartext{
+  color:white;
+}
+
+.button3 {
+  background-color: white;
+  text-decoration: none;
+}
+
+.navbartext2 {
+padding: 0px; 
+height: 40px ; 
+margin-top: 20px;
+}

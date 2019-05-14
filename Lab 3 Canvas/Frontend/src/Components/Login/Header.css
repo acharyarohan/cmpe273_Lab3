@@ -1,0 +1,18 @@
+.loginheader{
+    /* margin-left: auto;
+     margin-right: auto;
+       width: 50%; */
+    /* text-align: center;  */
+    background-color: white;
+    /* padding:13px 0 0 0;   */
+    color:rgb(122, 122, 122);
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+/* .loginheadersub{
+    padding:0 0 20px 0;
+    border-bottom: 2px solid rgb(200, 200, 200);
+} */
